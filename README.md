@@ -45,7 +45,7 @@ Once you are done your application will have two routes:
 
 ### Task 3: Stretch Goals
 
-If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
+If you have completed Parts 1 & 2 feel free to move on to these stretch goals..
 
 #### Refactor so that our code is DRY
 
